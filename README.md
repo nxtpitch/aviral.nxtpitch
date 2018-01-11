@@ -1,2 +1,4 @@
-# aniveera1.github.io
-Source code for my personal website
+# aviral.nxtpitch.com
+
+Aviral Kukreja's NXTPitch Site
+
